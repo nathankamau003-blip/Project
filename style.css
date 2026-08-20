@@ -4,3 +4,7 @@ body{
 #image{
     size: 50%;
 }
+div{
+    border: solid black 1px;
+    align-items: center;
+}
