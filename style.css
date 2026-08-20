@@ -1,5 +1,6 @@
 body{
     background-color: gray;
+    margin: auto;
 }
 #image{
     size: 50%;
@@ -7,4 +8,5 @@ body{
 div{
     border: solid black 1px;
     justify-content: space-between;
+    margin-left: 10%;
 }
