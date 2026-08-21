@@ -13,7 +13,7 @@ div{
 h1{
     font-size: xx-large;
     align-content:space-between;
-    background-color: black;
+    margin: 50%;
     justify-content: center;
     align-items: center;
 }
