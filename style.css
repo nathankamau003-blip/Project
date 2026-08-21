@@ -20,7 +20,6 @@ p{
 }
 #photos{
     display: flex;
-    justify-content: center;
     gap: 20px;
     width: 500px;
     height: 500px;
