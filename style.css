@@ -13,6 +13,7 @@ div{
 h1{
     font-size: xx-large;
     align-content:space-between;
+    background-color: black;
 }
 p{
     margin-left: 5%;
