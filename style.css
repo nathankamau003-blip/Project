@@ -1,5 +1,6 @@
 body{
     background-color: gray;
+    margin: 4%;
 }
 #image{
     size: 50%;
@@ -23,4 +24,5 @@ p{
     gap: 20px;
     width: 500px;
     height: 500px;
+    justify-content: center;
 }
