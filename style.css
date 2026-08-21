@@ -1,6 +1,5 @@
 body{
     background-color: gray;
-    margin: 1px;;
 }
 #image{
     size: 50%;
@@ -10,4 +9,11 @@ div{
     margin-left: 10%;
     padding: 10%;
     background-color: red;
+}
+h1{
+    font-size: xx-large;
+    align-content: center;
+}
+p{
+    margin-left: 10%;
 }
