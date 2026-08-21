@@ -14,6 +14,7 @@ h1{
     font-size: xx-large;
     align-content:space-between;
     background-color: black;
+    justify-content: center;
 }
 p{
     margin-left: 5%;
